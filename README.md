@@ -2,7 +2,8 @@
 [< Back to main page](https://clovetwilight3.github.io/)
 
 # Fabric Loader
-## You can drag and drop these into the Launcher to import it!
+
+You can drag and drop these into the Launcher to import it!
 
 [Download Clove's Modpack on Fabric 1.21.4](https://www.mazeymoos.com/prism/clove.zip)
 
